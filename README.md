@@ -31,6 +31,10 @@ Project to collect ideas, mockups and code to create an open hardware / open sof
   - Gyroscope
   - Accelerometer
   - ?IR sensor (e.g. WiiMote)?
+ - Hardware Partners?
+  - System76
+  - Pine64
+  - Tuxedo / Star Labs / etc.
 
 ## Software
 
